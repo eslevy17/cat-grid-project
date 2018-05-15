@@ -1,0 +1,35 @@
+.backgrounddiv{
+    background-color: #d4d2ae;
+    width: 1016px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.titlediv {
+    margin: auto;
+    width: 705px;
+    padding: 0px;
+}
+
+.bluediv {
+    background-color: #82b4ee;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.reddiv {
+    background-color: #f36870;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
